@@ -22,7 +22,7 @@ waffle連結:https://waffle.io/40223148/2015cda_g5
 
 github連結:https://github.com/40223148/2015cda_g5
 
-gitbook連結:
+gitbook連結:https://www.gitbook.com/book/zhengyuzhengsishejiyijia/cda_g5/details
 
 
 
