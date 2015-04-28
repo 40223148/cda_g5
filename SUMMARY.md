@@ -7,4 +7,5 @@
 * [2015cda_g5_w4](2015cdag5_w4.md)
 * [2015cda_g5_w5](2015cdag5_w5.md)
 * [2015cda_g5_w6](2015cdag5_w6.md)
+* 2015cda_g5_w7
 
